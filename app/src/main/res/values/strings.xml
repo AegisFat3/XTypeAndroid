@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">X-Type</string>
+    <string name="menuHome">Home</string>
+    <string name="menuInmuebles">Inmuebles</string>
+    <string name="menuBuscar">Buscar</string>
+    <string name="menuForo">Foro</string>
+    <string name="menuOfertar">Ofertar</string>
+    <string name="menuOtros">Otros</string>
+    <string name="menuPerfil">Mi Perfil</string>
+    <string name="menuSalir">Salir</string>
+    <string name="menuNos">Acerca de Nosotros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
