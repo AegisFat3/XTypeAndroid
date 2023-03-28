@@ -3,6 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/drawable/bglogin.xml" value="0.1" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/drawable/bglogin1.xml" value="0.1" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/drawable/bgsplash.xml" value="0.1" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/drawable/round_border.xml" value="0.1" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/layout/activity_choice.xml" value="0.35507246376811596" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/layout/activity_choice1.xml" value="0.33" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/layout/activity_registro.xml" value="0.2" />
+        <entry key="..\:/Users/fretodos/XTypeAndroid/app/src/main/res/layout/activity_splash.xml" value="0.22" />
         <entry key="..\:/Xtypee/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Xtypee/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Xtypee/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
