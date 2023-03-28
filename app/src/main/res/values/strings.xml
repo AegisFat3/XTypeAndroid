@@ -9,6 +9,7 @@
     <string name="menuPerfil">Mi Perfil</string>
     <string name="menuSalir">Salir</string>
     <string name="menuNos">Acerca de Nosotros</string>
+    <string name="salu">Hola,</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
