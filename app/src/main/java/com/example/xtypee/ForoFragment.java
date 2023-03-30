@@ -29,7 +29,7 @@ public class ForoFragment extends Fragment {
         webView = view.findViewById(R.id.webviewId);
         webView.getSettings().setJavaScriptEnabled(true);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://ananoemimg.discussion.community/");
+        webView.loadUrl("https://ananoemimg2.discussion.community/");
 
         return view;
     }

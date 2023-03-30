@@ -55,6 +55,11 @@
     <string name="Recuperar">Recuperar</string>
     <string name="agregar">Agregar contraseña</string>
     <string name="cs">Cerrar Sesión</string>
+
+    <!--Mios-->
+
+    <string name="salu">Hola,</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

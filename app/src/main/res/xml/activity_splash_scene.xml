@@ -7,7 +7,7 @@
         motion:constraintSetEnd="@+id/end"
         motion:constraintSetStart="@id/start"
         motion:duration="1000"
-        motion:autotransition="animateToEnd">
+        motion:autoTransition="animateToEnd">
        <KeyFrameSet>
        </KeyFrameSet>
     </Transition>

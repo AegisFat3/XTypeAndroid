@@ -5,6 +5,7 @@
     android:id="@+id/main"
     app:startDestination="@id/menuHome">
 
+
     <fragment
         android:id="@+id/menuHome"
         android:name="com.example.xtypee.HomeFragment"

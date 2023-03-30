@@ -1,6 +1,8 @@
 package com.example.xtypee;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -111,7 +113,7 @@ public class login extends AppCompatActivity {
             if(myInfo!=null){
                 if(myInfo.getPassword().equals(pswd)){
                     Toast.makeText(getApplicationContext(), "Inicio de sesión exitoso", Toast.LENGTH_LONG).show();
-                    Intent intent = new Intent(login.this, HomeFragment.class);
+                    Intent intent = new Intent(login.this, MainActivity.class);
                     intent.putExtra("Objeto", myInfo);
                     startActivity(intent);
                 }else{

@@ -18,7 +18,7 @@ public class splash extends AppCompatActivity {
 
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_splash);
 
         UsuariosDBService usuariosDBService = new UsuariosDBService(splash.this);
         SQLiteDatabase db = usuariosDBService.getWritableDatabase();
