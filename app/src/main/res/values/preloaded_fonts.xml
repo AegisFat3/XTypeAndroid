@@ -4,5 +4,8 @@
         <item>@font/poppins</item>
         <item>@font/poppins_light</item>
         <item>@font/poppins_medium</item>
+        <item>@font/raleway</item>
+        <item>@font/raleway_semibold</item>
+        <item>@font/syncopate</item>
     </array>
 </resources>

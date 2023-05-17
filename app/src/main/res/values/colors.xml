@@ -20,4 +20,5 @@
     <color name="patito">#F9A72B</color>
     <color name="patitoL">#FCD24F</color>
     <color name="back">#C1D2E6</color>
+    <color name="trans">#7A000000</color>
 </resources>

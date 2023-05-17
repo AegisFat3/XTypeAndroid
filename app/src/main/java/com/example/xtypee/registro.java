@@ -56,10 +56,8 @@ public class registro extends AppCompatActivity implements View.OnClickListener 
         //Contraseñas nuevas
         lista= new ArrayList<>();
         MyData myData=null;
-        spinner = findViewById(R.id.spinner);
         String [] opciones = {"Norte","Sur","Centro"};
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_dropdown_item, opciones);
-        spinner.setAdapter(adapter);
         pick = findViewById(R.id.pick);
         button4 = findViewById(R.id.button4);
         Button button5 = findViewById(R.id.button5);
@@ -70,12 +68,6 @@ public class registro extends AppCompatActivity implements View.OnClickListener 
         fec = findViewById(R.id.fec);
         fec.setEnabled(false);
         nombre = findViewById(R.id.nombre);
-        box1 = findViewById(R.id.checkBox1);
-        box2 = findViewById(R.id.checkBox2);
-        box3 = findViewById(R.id.checkBox3);
-        r1 = findViewById(R.id.radioButton3);
-        r2 = findViewById(R.id.radioButton4);
-        Switch switch1 = findViewById(R.id.switch1);
         button5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -112,9 +104,6 @@ public class registro extends AppCompatActivity implements View.OnClickListener 
                 }
                 if(r2.isChecked()==true){
                     activado=1;
-                }
-                if(switch1.isChecked()){
-                    sw= 1;
                 }
                 //Validaciones
                 if(usr.equals("")||password.equals("")||email.equals("")){
